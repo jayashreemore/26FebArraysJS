@@ -44,7 +44,7 @@ console.log(arr.map((e)=> e + 2)) ;
 // console.log(count); 
 
 //------------------------------//
-/*
+
 
 let addThis = 0;
 let sum = 0;
@@ -55,5 +55,5 @@ while (addThis < 10) {
 
 console.log(sum);
 
-*/
+
 
